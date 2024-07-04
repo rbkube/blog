@@ -22,8 +22,8 @@ title: Rubiku.be
 email: yo@rubiku.be
 description: >- # this means to ignore newlines until "baseurl:"
   Rubiku.be's blog. Thoughts on software development, design, and other things.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.rubiku.be" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://rbkube.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rbkube
 github_username: rbkube
 markdown: GFM
