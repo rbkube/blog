@@ -2,7 +2,7 @@
 layout: post
 title: "Marketplace EU VAT library notes"
 date: 2024-07-04 12:00:45 +0200
-categories: vat oss notes
+tags: vat oss notes
 ---
 
 Recently, we started our summer product sprint session. Our first idea was to create an **MVP** (Minimum Viable Product) for an open-source marketplace engine.
