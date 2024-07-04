@@ -2,5 +2,6 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  post_list:
-    show_more: false
+  - title: Posts
+    post_list:
+      show_more: false
