@@ -30,7 +30,7 @@ We want to create a open source framework that allows users to implement VAT com
 ### MVP high-level specification
 
 - MVP Scope would be: EU + CH.
-- I should have a [Permissive software license](https://en.wikipedia.org/wiki/Permissive_software_license) so that it can be integrated into commercial software.
+- It should have a [Permissive software license](https://en.wikipedia.org/wiki/Permissive_software_license) so that it can be integrated into commercial software.
 - Use [EU Commission note](https://vat-one-stop-shop.ec.europa.eu/guides_en) as Guideline document, the goal is not provide Tax Advice but rather to provide / test an implementation that would prove to be reasonnably compliant with EU guidelines.
 - It has to be usable as a library as is, we liked `node-sales-tax` JSON minimal database approach, nonetheless it would not be viable on the long run as production users would need a way to connect to a centralised & maintained database.
 - It should be transactional, meaning that the library should be able to give VAT rates details for a single transaction.
