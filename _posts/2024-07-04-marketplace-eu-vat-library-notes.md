@@ -24,7 +24,7 @@ We want to create a open source framework that allows users to implement VAT com
 
 ### Why we want to do this
 
-- **Public interest:** We think the e-commerce VAT reform is good from a philosophical perspective it's aim is to maintain fair competition on the market, nonetheless as others regulations eventhough it's aimed at big players the one to suffer will be SMEs as they don't have the means to remain compliant.
+- **Public interest:** We think the e-commerce VAT reform is good from a philosophical perspective it's aim is to maintain fair competition on the market, nonetheless as other regulations eventhough it's aimed at big players the one to suffer will be SMEs as they don't have the means to remain compliant.
 - **Private interest**: It is a bottleneck for some of our projects. It can bring us credibility, which can bring us business, in the end we are still a for-profit org. We like to solve puzzles.
 
 ### MVP high-level specification
